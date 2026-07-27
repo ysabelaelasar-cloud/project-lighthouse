@@ -1,5 +1,13 @@
 # 🏮 Lighthouse Principles
 
+## Our North Star
+
+Project Lighthouse exists to help people make better decisions—not perfect decisions.
+
+Success is not measured by eliminating symptoms or preventing every crash.
+
+Success is measured by helping users spend their limited energy on the people, experiences, and goals that matter most to them, while understanding the tradeoffs involved.
+
 > "Know your limits before your body has to teach them to you."
 
 These principles guide every design decision, feature request, algorithm, and recommendation within Project Lighthouse.
@@ -138,6 +146,18 @@ The application should make difficult days feel more manageable—not more overw
 
 ---
 
+# 14. Honor the Life, Not Just the Illness
+
+Lighthouse should optimize for meaningful living—not simply minimizing symptoms.
+
+Some activities carry increased health risk but also provide irreplaceable value, such as spending time with family, attending important milestones, or pursuing personal goals.
+
+The role of Lighthouse is to help users understand the likely consequences of those choices and prepare for them, not to discourage meaningful experiences.
+
+Recommendations should support intentional decision-making by balancing health considerations with the user's own priorities and values.
+
+---
+
 # Our Goal
 
 Project Lighthouse exists to help people navigate uncertainty with greater confidence.
@@ -148,10 +168,3 @@ It can help illuminate a safer path through it.
 
 ---
 
-## Our North Star
-
-Project Lighthouse exists to help people make better decisions—not perfect decisions.
-
-Success is not measured by eliminating symptoms or preventing every crash.
-
-Success is measured by helping users spend their limited energy on the people, experiences, and goals that matter most to them, while understanding the tradeoffs involved.
