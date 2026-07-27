@@ -145,3 +145,13 @@ Project Lighthouse exists to help people navigate uncertainty with greater confi
 It cannot remove the storm.
 
 It can help illuminate a safer path through it.
+
+---
+
+## Our North Star
+
+Project Lighthouse exists to help people make better decisions—not perfect decisions.
+
+Success is not measured by eliminating symptoms or preventing every crash.
+
+Success is measured by helping users spend their limited energy on the people, experiences, and goals that matter most to them, while understanding the tradeoffs involved.
